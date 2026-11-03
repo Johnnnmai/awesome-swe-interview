@@ -6,7 +6,7 @@
   </p>
 </p>
 
-<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-swe-interview">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=awesome-swe-interview">Interview Pass, $19/mo</a></p>
+<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-swe-interview">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drill packs:</strong> <a href="https://valenx.org/go/pass-y?utm_source=github&utm_campaign=awesome-swe-interview&utm_content=readme">Valenx Pass</a>, $79/yr, a new drill pack every Monday, cancel anytime.</p>
 
 <p align="center">
   <a href="https://github.com/Johnnnmai/awesome-swe-interview/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/awesome-swe-interview?style=social" alt="GitHub Stars"></a>
