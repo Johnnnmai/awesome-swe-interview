@@ -31,13 +31,13 @@ Everything here is based on real data: 1,850+ actual job descriptions, real inte
 
 This repo exists to become the go-to resource for software engineering careers - role analysis, interview questions, career transition paths, portfolio strategy, and curated resources. All in one place. All backed by data.
 
-Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/) for more SWE career resources.
+Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/?utm_source=github&utm_medium=readme&utm_content=awesome-swe-interview_L34) for more SWE career resources.
 
 ### 📘 Sponsored by
 
-[The 0→1 SWE Interview Playbook](https://valenx.org/books/swe) - A Silicon Valley System for Coding Interviews and System Design. Built from 200+ real SWE interview loops at Google, Amazon, Meta, Apple.
+[The 0→1 SWE Interview Playbook](https://valenx.org/books/swe?utm_source=github&utm_medium=readme&utm_content=awesome-swe-interview_L38) - A Silicon Valley System for Coding Interviews and System Design. Built from 200+ real SWE interview loops at Google, Amazon, Meta, Apple.
 
-<a href="https://valenx.org/books/swe"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H1F83LCM"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
+<a href="https://valenx.org/books/swe?utm_source=github&utm_medium=readme&utm_content=awesome-swe-interview_L40"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H1F83LCM"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
 
 ---
 
@@ -170,7 +170,7 @@ A 4-part live event series covering the SWE career lifecycle.
 | [The interview process](webinars/03-the-interview-process.md) | Cracking the coding interview | DSA patterns, system design, behavioral prep |
 | [Take-home assignments](webinars/04-take-home-assignments.md) | Practical coding tests | Assignment types, evaluation rubrics, submission strategy |
 
-Follow [valenx.org](https://valenx.org/) for event announcements.
+Follow [valenx.org](https://valenx.org/?utm_source=github&utm_medium=readme&utm_content=awesome-swe-interview_L173) for event announcements.
 
 [⬆ back to top](#swe-interview-field-guide)
 
